@@ -7,7 +7,7 @@ Generate AI images from prompt lists using Google Gemini.
 ```bash
 npm install
 cp .env.example .env
-# Add your Gemini API key to .env
+# Add your Gemini API key and optionally change the model in .env
 ```
 
 ## Usage

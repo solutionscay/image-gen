@@ -18,7 +18,7 @@ interface ProgressEntry {
 
 type ProgressMap = Record<string, ProgressEntry>;
 
-const MODEL = "gemini-2.5-flash-image";
+const MODEL = process.env.GEMINI_MODEL || "gemini-2.5-flash-image";
 const PROJECTS_DIR = path.join(import.meta.dirname!, "projects");
 
 function loadProgress(progressPath: string): ProgressMap {
