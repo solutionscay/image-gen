@@ -1,0 +1,62 @@
+[
+  {
+    "code": "DEN-001",
+    "product": "Denver Living Room",
+    "prompt": "Professional real estate photo of a cozy Airbnb living room in a Denver, Colorado mountain-modern home. Open floor plan with a plush gray sectional sofa, warm wood coffee table, and a stone fireplace. Large windows showing mountain views with natural light flooding in. Styled with woven throw blankets, earth-tone pillows, and a few potted plants. Warm wood floors, clean modern lines with rustic touches. Bright, inviting, editorial Airbnb listing photography."
+  },
+  {
+    "code": "DEN-002",
+    "product": "Denver Kitchen",
+    "prompt": "Professional real estate photo of a bright modern kitchen in a Denver, Colorado Airbnb home. White quartz countertops, matte black fixtures, and natural wood open shelving. A large island with bar stools seats four guests. Stainless steel appliances, a bowl of fresh fruit on the counter, morning light streaming through a window above the sink. Clean, welcoming, well-equipped for guests. Warm contemporary mountain-home aesthetic, editorial Airbnb listing photography."
+  },
+  {
+    "code": "DEN-003",
+    "product": "Denver Bedroom",
+    "prompt": "Professional real estate photo of a serene master bedroom in a Denver, Colorado Airbnb home. King-size bed with crisp white linens, a chunky knit throw blanket, and layered neutral pillows. Nightstands with modern ceramic lamps on each side. A large window with sheer curtains letting in soft natural light, hint of mountain scenery outside. Warm wood accent wall behind the headboard, plush area rug on hardwood floors. Calm, restful, hotel-quality guest room feel, editorial Airbnb listing photography."
+  },
+  {
+    "code": "NSH-001",
+    "product": "Nashville Living Room",
+    "prompt": "Professional real estate photo of a stylish Airbnb living room in a Nashville, Tennessee home. Mid-century modern sofa in a warm mustard or terracotta tone, paired with a vintage leather armchair. Exposed brick accent wall, hardwood floors, and a gallery wall with eclectic art and a neon sign. Large windows with natural light, a record player on a credenza, and a few house plants. Music city charm meets modern bohemian style. Bright, fun, inviting, editorial Airbnb listing photography."
+  },
+  {
+    "code": "NSH-002",
+    "product": "Nashville Kitchen and Dining",
+    "prompt": "Professional real estate photo of an open kitchen and dining area in a Nashville, Tennessee Airbnb home. Farmhouse-style dining table with mixed seating — a wooden bench on one side and upholstered chairs on the other, set for four. White subway tile backsplash, butcher block countertops, brass hardware and pendant lights. A vase of fresh flowers on the table, coffee mugs ready on the counter. Southern hospitality meets modern design. Warm, bright, editorial Airbnb listing photography."
+  },
+  {
+    "code": "NSH-003",
+    "product": "Nashville Bedroom",
+    "prompt": "Professional real estate photo of a charming guest bedroom in a Nashville, Tennessee Airbnb home. Queen-size bed with a tufted upholstered headboard in soft linen, layered with a vintage-inspired quilt and textured throw pillows. A nightstand with a brass lamp and a small succulent. Shiplap accent wall painted in a warm white, woven jute rug on dark hardwood floors. Soft morning light through plantation shutters. Cozy southern charm with a modern edge, editorial Airbnb listing photography."
+  },
+  {
+    "code": "COS-001",
+    "product": "Colorado Springs Living Room",
+    "prompt": "Professional real estate photo of a warm Airbnb living room in a Colorado Springs, Colorado home near Garden of the Gods. Comfortable deep-seat sofa in a rich navy blue with southwestern-patterned throw pillows. A live-edge wood mantel over a gas fireplace, large picture windows with views of red rock formations and Pikes Peak in the distance. Leather accent chair, woven area rug, antler chandelier overhead. Warm earth tones with pops of turquoise, lodge-modern aesthetic. Bright natural light, editorial Airbnb listing photography."
+  },
+  {
+    "code": "COS-002",
+    "product": "Colorado Springs Kitchen",
+    "prompt": "Professional real estate photo of a welcoming kitchen in a Colorado Springs, Colorado Airbnb home. Warm wood cabinetry with black granite countertops and a farmhouse sink. Copper pendant lights over a breakfast bar with rustic wood stools. Open shelving displaying stoneware dishes, a French press and mugs ready for guests. Window above the sink with a view of pine trees and blue sky. Mountain lodge meets modern comfort, warm and well-stocked. Editorial Airbnb listing photography."
+  },
+  {
+    "code": "COS-003",
+    "product": "Colorado Springs Bedroom",
+    "prompt": "Professional real estate photo of a cozy master bedroom in a Colorado Springs, Colorado Airbnb home. King-size bed with a rustic reclaimed wood headboard, dressed in white and sage green linens with a faux fur throw at the foot. Bedside tables with warm Edison-bulb lamps. Large window with views of mountain landscape, soft morning light filtering through linen curtains. Plush cream carpet, a small reading nook with an armchair in the corner. Peaceful mountain retreat feel, editorial Airbnb listing photography."
+  },
+  {
+    "code": "PDX-001",
+    "product": "Portland Living Room",
+    "prompt": "Professional real estate photo of an eclectic Airbnb living room in a Portland, Oregon craftsman bungalow. Vintage mid-century modern sofa in forest green velvet, mismatched accent chairs, and a round marble coffee table. Original built-in bookshelves filled with books and quirky art objects. Large craftsman-style windows with natural light, indoor hanging plants and a fiddle leaf fig. Warm fir hardwood floors, colorful Persian rug. Pacific Northwest creative vibes, cozy and curated. Editorial Airbnb listing photography."
+  },
+  {
+    "code": "PDX-002",
+    "product": "Portland Kitchen",
+    "prompt": "Professional real estate photo of a bright renovated kitchen in a Portland, Oregon Airbnb craftsman home. White shaker cabinets with original glass-front uppers, soapstone countertops, and matte black hardware. Open shelving with hand-thrown ceramic mugs and a pour-over coffee setup. Herb garden in small pots on the windowsill, a bowl of local farmers market produce on the counter. Vintage pendant light, hexagonal tile backsplash. Pacific Northwest charm with modern updates, warm and inviting. Editorial Airbnb listing photography."
+  },
+  {
+    "code": "PDX-003",
+    "product": "Portland Bedroom",
+    "prompt": "Professional real estate photo of a tranquil guest bedroom in a Portland, Oregon Airbnb craftsman home. Queen-size bed with a simple black iron frame, layered with a linen duvet in soft sage, a wool blanket, and mixed-texture pillows. Vintage wooden nightstand with a ceramic lamp and a stack of books. Large craftsman window with wooden blinds letting in diffused Pacific Northwest light. Warm fir floors, a small macrame wall hanging, potted trailing plant on a shelf. Moody yet bright, relaxed creative aesthetic. Editorial Airbnb listing photography."
+  }
+]
